@@ -10,3 +10,9 @@
     height: 400px;
     background-color: white;
 }
+
+.ActiveQueue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
