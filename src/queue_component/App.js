@@ -6,6 +6,9 @@ return (
     <div className="QueueGrid">
         <div>
         Queue Grid
+        <div>
+           aktiv kø 
+        </div>
         </div>
     </div>
     </div>
