@@ -1,0 +1,13 @@
+.formsGridContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.FormsGrid {
+    border: 3px solid red;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
