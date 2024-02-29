@@ -1,6 +1,6 @@
 import './App.css';
 import {QueueGrid} from '../queue_component/App';
-import { FormsGrid } from '../forms_component/App';
+import {FormsGrid} from '../forms_component/App';
 
 
 
