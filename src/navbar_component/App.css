@@ -1,0 +1,32 @@
+.Navbar_css{
+    height: 100px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border: 3px solid red;
+    margin-bottom: 10px;
+}
+
+.Links{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Links li {
+    margin-right: 10px; /* Add some spacing between list items */
+}
+
+.Links img {
+    height: 30px; /* Adjust the height of the image */
+}
+
+.Links .ProfileImg {
+    width: 60px;
+    height: 60px;
+}
+
+.Links .HomeImg {
+    width: 100px;
+    height: 100px;
+}
